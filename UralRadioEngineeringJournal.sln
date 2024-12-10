@@ -5,6 +5,10 @@ VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UralRadioEngineeringJournal.Blazor", "UralRadioEngineeringJournal.Blazor\UralRadioEngineeringJournal.Blazor.csproj", "{6475936C-946F-4447-A656-57406E1D12E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UralRadioEngineeringJournal.API", "UralRadioEngineeringJournal.API\UralRadioEngineeringJournal.API.csproj", "{D8F22287-5060-479B-B055-B635E0258B5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UralRadioEngineeringJournal.Domain", "UralRadioEngineeringJournal.Domain\UralRadioEngineeringJournal.Domain.csproj", "{1DFD6CBA-76DF-400A-995C-1EF7DA358194}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{6475936C-946F-4447-A656-57406E1D12E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6475936C-946F-4447-A656-57406E1D12E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6475936C-946F-4447-A656-57406E1D12E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8F22287-5060-479B-B055-B635E0258B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8F22287-5060-479B-B055-B635E0258B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8F22287-5060-479B-B055-B635E0258B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8F22287-5060-479B-B055-B635E0258B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DFD6CBA-76DF-400A-995C-1EF7DA358194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DFD6CBA-76DF-400A-995C-1EF7DA358194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DFD6CBA-76DF-400A-995C-1EF7DA358194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DFD6CBA-76DF-400A-995C-1EF7DA358194}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
