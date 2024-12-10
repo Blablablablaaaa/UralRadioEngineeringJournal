@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UralRadioEngineeringJournal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UralRadioEngineeringJournal.Domain", "UralRadioEngineeringJournal.Domain\UralRadioEngineeringJournal.Domain.csproj", "{1DFD6CBA-76DF-400A-995C-1EF7DA358194}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UralRadioEngineeringJournal.Persistence", "UralRadioEngineeringJournal.Persistence\UralRadioEngineeringJournal.Persistence.csproj", "{3687CF56-A38A-4BB0-8471-B0B40A0CB332}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1DFD6CBA-76DF-400A-995C-1EF7DA358194}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DFD6CBA-76DF-400A-995C-1EF7DA358194}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DFD6CBA-76DF-400A-995C-1EF7DA358194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3687CF56-A38A-4BB0-8471-B0B40A0CB332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3687CF56-A38A-4BB0-8471-B0B40A0CB332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3687CF56-A38A-4BB0-8471-B0B40A0CB332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3687CF56-A38A-4BB0-8471-B0B40A0CB332}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
