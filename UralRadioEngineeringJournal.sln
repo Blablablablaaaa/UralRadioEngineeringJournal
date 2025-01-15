@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UralRadioEngineeringJournal.Blazor", "UralRadioEngineeringJournal.Blazor\UralRadioEngineeringJournal.Blazor.csproj", "{6475936C-946F-4447-A656-57406E1D12E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UralRadioEngineeringJournal.Blazor", "UralRadioEngineeringJournal.Blazor\UralRadioEngineeringJournal.Blazor.csproj", "{6475936C-946F-4447-A656-57406E1D12E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UralRadioEngineeringJournal.API", "UralRadioEngineeringJournal.API\UralRadioEngineeringJournal.API.csproj", "{D8F22287-5060-479B-B055-B635E0258B5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UralRadioEngineeringJournal.API", "UralRadioEngineeringJournal.API\UralRadioEngineeringJournal.API.csproj", "{D8F22287-5060-479B-B055-B635E0258B5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UralRadioEngineeringJournal.Domain", "UralRadioEngineeringJournal.Domain\UralRadioEngineeringJournal.Domain.csproj", "{1DFD6CBA-76DF-400A-995C-1EF7DA358194}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UralRadioEngineeringJournal.Domain", "UralRadioEngineeringJournal.Domain\UralRadioEngineeringJournal.Domain.csproj", "{1DFD6CBA-76DF-400A-995C-1EF7DA358194}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UralRadioEngineeringJournal.Persistence", "UralRadioEngineeringJournal.Persistence\UralRadioEngineeringJournal.Persistence.csproj", "{3687CF56-A38A-4BB0-8471-B0B40A0CB332}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UralRadioEngineeringJournal.Persistence", "UralRadioEngineeringJournal.Persistence\UralRadioEngineeringJournal.Persistence.csproj", "{3687CF56-A38A-4BB0-8471-B0B40A0CB332}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
